@@ -1,0 +1,25 @@
+body {
+    background-image: url("im.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+.wrapper {
+    text-align: center;
+}
+
+
+
+button{
+    margin-top: 20px;
+    border-radius: 12px;
+    padding: 20px;
+    background-color: rgb(177, 119, 119);
+
+}
+
+button:hover{
+    background-color: red;
+ 
+}
